@@ -9,8 +9,8 @@
 ```js
 const  @HamoudyPLus = {
    name : "Mohammed",
-   Age : "16",
-   MY[♥] : "@nemocutegirl",
+   Age : "18",
+   MY[♥] : "null",
    location : "Syria, Egypt",
    MySkills : {
       Librarys : ["Bootstrap" , "discord.JS" , "eris"]
