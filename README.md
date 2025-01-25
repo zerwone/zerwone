@@ -28,6 +28,7 @@ A hub for ambitious tech solutions:
 A digital platform for the **One United Muslim Athletic Association**:  
 - 🎯 League management, real-time updates, and bus rental features  
 - 📱 Mobile and web apps with robust permissions and roles  
+- 🌐 Explore: [1UMAA Platform](https://1umaa.org)
 
 ### **Everyday Nexus**  
 Innovating **eco-friendly daily-use products**, currently focusing on Amazon's growing e-commerce space.  
@@ -46,7 +47,7 @@ Innovating **eco-friendly daily-use products**, currently focusing on Amazon's g
 - 🌍 **Portfolio:** [ZerwOne Network](https://zerwone.com)  
 - 💼 **LinkedIn:** [Mohamad AlJadaan](https://www.linkedin.com/in/zerwone/)  
 - 🛒 **Amazon Store:** [Everyday Nexus](https://www.everydaynexus.com/)  
-- 📧 **Email:** mohamad.aljadaan@example.com  
+- 📧 **Email:** contact@zerwone.com  
 
 ---
 
