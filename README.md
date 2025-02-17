@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohamad AlJadaan (aka ZerwOne) 🌟  
 
 🚀 **Front-End Full-Stack Developer | Cybersecurity Engineering Student**  
-🎓 **Freshman at THE UC - University of Cincinnati**  
+🎓 **Freshman at The UC - University of Cincinnati**  
 🌐 **Founder of ZerwOne Network**  
 💡 **Innovator in Everyday Use Products & Blockchain Technology**  
 
